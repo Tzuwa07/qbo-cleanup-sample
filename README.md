@@ -1,3 +1,5 @@
+# QuickBooks Cleanup Sample Project
+
 ## Project Flow
 
 1. Raw transaction data (raw-data/)
@@ -7,8 +9,6 @@
 5. Before vs After financial reports
 
 This project demonstrates a full cleanup process from raw data to corrected financial statements.
-
-# QuickBooks Cleanup Sample Project
 
 ## Overview
 This project demonstrates a full bookkeeping cleanup for a small service business covering Jan–Mar 2025.
