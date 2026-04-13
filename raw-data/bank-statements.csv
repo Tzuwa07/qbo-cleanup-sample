@@ -1,0 +1,15 @@
+Date,Description,Amount,Type
+2025-01-02,Client A Payment,2000,Income
+2025-01-03,Client A Payment,2000,Income
+2025-01-04,Starbucks,-6.50,Expense
+2025-01-05,Office Supplies,-120.00,Expense
+2025-01-07,Software Subscription,-50.00,Expense
+2025-01-10,Unknown Charge,-75.00,Expense
+2025-01-12,Client B Payment,1500,Income
+2025-01-15,Grocery Store,-180.00,Expense
+2025-01-18,Facebook Ads,-300.00,Expense
+2025-01-20,Stripe Payout,1200,Income
+2025-01-22,Amazon Purchase,-90.00,Expense
+2025-01-25,Client C Payment,1800,Income
+2025-01-27,Zoom Subscription,-15.00,Expense
+2025-01-29,Transfer,-500.00,Expense
