@@ -1,3 +1,13 @@
+## Project Flow
+
+1. Raw transaction data (raw-data/)
+2. Issues identified (issues-identified/)
+3. Cleanup actions performed
+4. Final summary (final-summary/)
+5. Before vs After financial reports
+
+This project demonstrates a full cleanup process from raw data to corrected financial statements.
+
 # QuickBooks Cleanup Sample Project
 
 ## Overview
